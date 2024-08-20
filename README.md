@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @W-Nyawira
-- 👀 I’m interested in data analysis/data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on interesting projects in the agriculture, health, beauty, and cosmetics industries. Other projects are also welcome.
-- 📫 How to reach me nyawiranelius3@gmail.com
+Welcome to my GitHub! My name is Nelius and I'm a passionate Data Analyst based in Nairobi, Kenya, with a strong background in economics, research, and writing. My expertise lies in data cleaning, analysis, visualization, and creating predictive models. I'm particularly interested in using data to uncover actionable insights that drive decision-making. I'm detail-oriented and always eager to collaborate on data analysis, visualization projects, and other data science initiatives, including machine learning. If you have a project in mind, I'd love to connect!
 
