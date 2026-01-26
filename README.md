@@ -1,2 +1,3 @@
-Welcome to my GitHub! My name is Nelius and I'm a passionate Data Analyst based in Nairobi, Kenya, with a strong background in economics, research, and writing. My expertise lies in data cleaning, analysis, visualization, and creating predictive models. I'm particularly interested in using data to uncover actionable insights that drive decision-making. I'm detail-oriented and always eager to collaborate on data analysis, visualization projects, and other data science initiatives, including machine learning. If you have a project in mind, I'd love to connect!
+Data analyst focused on exploratory analysis, performance evaluation, and model-informed feature engineering.
+Interested in credit risk, consumer analytics, and data-driven decision-making.
 
