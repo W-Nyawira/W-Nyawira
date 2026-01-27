@@ -1,4 +1,4 @@
-## Hi, I’m Nelius 👋
+## Hi, I’m Nyawira 👋
 
 I’m a data analyst with a background in economics, research, and applied analytics. I enjoy working with real-world data to uncover patterns, evaluate performance, and turn insights into clear, practical decisions.
 
