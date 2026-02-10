@@ -16,7 +16,8 @@ My work focuses on:
 
 ### 📌 Featured Projects
 - **Credit Risk EDA & Baseline Modeling** – exploring drivers of default and evaluating models using ROC–AUC  
-- **Credit Approval Strategy Simulation** *(coming next)* – translating risk scores into decision rules and KPIs
+- **Credit Approval Strategy Simulation** – translating risk scores into decision rules and KPIs
+- **Retail Analytics End-to-End Project**- Cleaning raw retail data with over 500k transactions into business insights
 
 I’m interested in roles where data supports better decisions, accountability, and real-world impact.
 
